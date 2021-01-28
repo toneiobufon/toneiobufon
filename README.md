@@ -1,9 +1,5 @@
 ### Hola 👋
 
-<!--
-**toneiobufon/toneiobufon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...projects for my Front End portfolio
 - 🌱 I’m currently learning ...MongoDB
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...food
 - 📫 How to reach me: ...ajimeneza77@gmail.com
 - ⚡ Fun fact: ...I am a dreamer
--->
+
