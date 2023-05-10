@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on ...React and Python challenges
 - 🤔 I’m looking for help with ...algorithms 
 - 💬 Ask me about ...food
-- 📫 How to reach me: ...ajimeneza77@gmail.com
+- 📫 How to reach me: ...
 - ⚡ Fun fact: ...I am a dreamer
 
